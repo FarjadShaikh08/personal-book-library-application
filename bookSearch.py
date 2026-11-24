@@ -4,5 +4,15 @@
 #Searching(ROUGH OUTLINE TO GET THE LOGIC AND IDEAS DOWN)
 books = ["Mistborn","Hunger Games","Silent Patient"]
 bookPick = input("Search Book").lower()
-if bookPick in books:
+for book  in books:
+    if 
     print(book)
+
+
+
+
+
+if book in bookPick:
+    if bookPick in books:
+        print()
+    
